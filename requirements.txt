@@ -1,0 +1,8 @@
+Flask==1.1.2
+imutils==0.5.4
+keras==2.6.0
+opencv-python==4.5.4.60
+Pillow==8.2.0
+scikit-image==0.18.1
+tensorflow==2.6.0
+gunicorn==19.0.0
